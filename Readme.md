@@ -17,6 +17,7 @@ To create a decentralized username system where individuals can securely own and
 - Integrate with decentralized applications for user login and display.
 
 ## 5. Contract — What is this?
-In blockchain development, a **contract** (also called a *smart contract*) is a program deployed to the blockchain that automatically enforces rules and logic without requiring a trusted third party.  
-In Clarity, a contract is written using the **Clarity language** and deployed on the Stacks blockchain. It is immutable once deployed and can handle things like storing data, transferring tokens, or in this case, registering usernames.
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/1628aff1-9edb-47c6-8b9a-696986f02c94" />
 
+## contract address
+STPH7DS88NX1M2HF2WW0AD6QAE435MSQDHH21VCV.Username-Registry
